@@ -1,0 +1,1 @@
+ C:\\Users\\leear.ARTHHUR\\OneDrive\\Desktop\\se-take-home-assignment\\mcdonalds_bot_prototype\\.dart_tool\\flutter_build\\6180c840450d711def7655921c1904de\\native_assets.yaml: 
