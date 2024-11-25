@@ -1,10 +1,10 @@
 ## Prerequisites
 Before running this project, make sure you have the following installed:
 
-Flutter SDK: You need to have Flutter installed to run and build the application.
-VS Code: This project is set up to be developed and run using Visual Studio Code.
-Dart: Flutter uses Dart as its programming language, so ensure that Dart is correctly set up.
-Flutter Plugins for VS Code: Install the Flutter and Dart plugins in Visual Studio Code for better development experience.
+1. Flutter SDK: You need to have Flutter installed to run and build the application.
+2. VS Code: This project is set up to be developed and run using Visual Studio Code.
+3. Dart: Flutter uses Dart as its programming language, so ensure that Dart is correctly set up.
+4. Flutter Plugins for VS Code: Install the Flutter and Dart plugins in Visual Studio Code for better development experience.
 
 Run the following command to check if Flutter is correctly installed:
 ```
