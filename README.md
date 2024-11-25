@@ -1,4 +1,4 @@
-##Prerequisites
+## Prerequisites
 Before running this project, make sure you have the following installed:
 
 Flutter SDK: You need to have Flutter installed to run and build the application.
@@ -7,14 +7,20 @@ Dart: Flutter uses Dart as its programming language, so ensure that Dart is corr
 Flutter Plugins for VS Code: Install the Flutter and Dart plugins in Visual Studio Code for better development experience.
 
 Run the following command to check if Flutter is correctly installed:
-```flutter doctor```
+```
+flutter doctor
+```
 
 Run the following command in the terminal to fetch the required dependencies:
-```flutter pub get```
+```
+flutter pub get
+```
 
 Run the Application
 If you have an Android emulator or iOS simulator set up, or a physical device connected, you can run the app using the following command:
-```flutter run```
+```
+flutter run
+```
 
 ## FeedMe Software Engineer Take Home Assignment
 Below is a take home assignment before the interview of the position. You are required to
